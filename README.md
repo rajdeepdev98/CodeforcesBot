@@ -9,7 +9,7 @@ the testcases into separate files**
 
 *runfile.bat:Batch file to compile the solution file		
 	
-*Dependencies:
+* Dependencies:
 	* Python 3
 	* Python Requests library
 	* Python BeautifulSoup library
