@@ -44,7 +44,7 @@ def test_case_parser(problem_url):
     return inputs,outputs
 
 def main():
-    print("Welcome Rajdeep! ")
+    print("Welcome! ")
     
     round_no=input("Round No : ")
     contest_id=input("ContestID : ")
