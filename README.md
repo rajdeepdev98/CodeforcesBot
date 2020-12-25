@@ -5,7 +5,7 @@ the testcases into separate files*
 
 * cf_parser.py:This parses the contests and download the separate test cases into a folder in your
 	      current directory
-* mytemp.cpp: My basic template file which is copied to every problem directory's soslution file
+* mytemp.cpp: My basic template file which is copied to every problem directory's solution file
 
 * runfile.bat: Batch file to compile the solution file		
 	
@@ -13,4 +13,7 @@ the testcases into separate files*
 	* Python 3
 	* Python Requests library
 	* Python BeautifulSoup library
+	
+**How to use this?**
+* Clone this repo in your desired directory and you're good to go!!
 
